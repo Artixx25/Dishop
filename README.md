@@ -1,2 +1,2 @@
 ## DiShop
-<img src="" alt="">
+<img src="./prev-dishop.jpg" alt="">
